@@ -4,10 +4,10 @@ public class Binomial {
 		//// Uncomment the version of binomial that you want to test
  
 		// Testing the basic binomial implementation:
-    	System.out.println(binomial1(Integer.parseInt(args[0]), Integer.parseInt(args[1])));
+    	//System.out.println(binomial1(Integer.parseInt(args[0]), Integer.parseInt(args[1])));
 
 		// Testing the optimized binomial implementation:
-		System.out.println(binomial(Integer.parseInt(args[0]), Integer.parseInt(args[1])));
+		//System.out.println(binomial(Integer.parseInt(args[0]), Integer.parseInt(args[1])));
 	}
 
 	// Computes the Binomial function, basic version.
